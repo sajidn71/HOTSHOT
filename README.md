@@ -25,7 +25,7 @@ This is a class project. We are exploring how repository actually works.
 <p>Use the style attribute to control an element's layout.</p>
 </body>
 </html>
-!DOCTYPE>
+<!DOCTYPE>
 <html>
 <body>
 <p>This text is normal.</p>
